@@ -1,6 +1,4 @@
-package ru.mirea.task4.task4_1.Shape;
-
-import ru.mirea.task4.task4_1.Shape.Shape;
+package ru.mirea.task4.task4_1.shape;
 
 public class Circle extends Shape {
     private double radius;

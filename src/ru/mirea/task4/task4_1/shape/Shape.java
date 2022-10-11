@@ -1,4 +1,4 @@
-package ru.mirea.task4.task4_1.Shape;
+package ru.mirea.task4.task4_1.shape;
 
 import java.util.Scanner;
 
