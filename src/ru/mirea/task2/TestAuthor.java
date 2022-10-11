@@ -12,6 +12,7 @@ public class TestAuthor {
         Author obj=new Author(name,email,gender);
         System.out.println(obj.toString());
         System.out.println("Введите email на который нужно заменить: ");
+        in.nextLine();
         email=in.nextLine();
         obj.setEmail(email);
         System.out.println("Author{"+" name = "+obj.getName()+
