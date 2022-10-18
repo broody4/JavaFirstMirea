@@ -1,4 +1,4 @@
-package ru.mirea.task4.task4_1.Vehicle;
+package ru.mirea.task4.task4_1.vehicle;
 
 public class Ship extends Vehicle{
     public Ship(double Ax,double Ay,double Bx,double By){

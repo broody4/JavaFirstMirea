@@ -1,4 +1,4 @@
-package ru.mirea.task4.task4_1.Vehicle;
+package ru.mirea.task4.task4_1.vehicle;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ru.mirea.task4.task4_1.Vehicle;
+package ru.mirea.task4.task4_1.vehicle;
 import java.lang.Math;
 public class Car extends Vehicle {
     public Car(double Ax,double Ay,double Bx,double By){

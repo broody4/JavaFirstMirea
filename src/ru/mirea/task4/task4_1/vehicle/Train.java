@@ -1,4 +1,4 @@
-package ru.mirea.task4.task4_1.Vehicle;
+package ru.mirea.task4.task4_1.vehicle;
 
 public class Train extends Vehicle{
     public Train(double Ax,double Ay,double Bx,double By){
